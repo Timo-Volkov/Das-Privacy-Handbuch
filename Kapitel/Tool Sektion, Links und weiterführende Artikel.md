@@ -367,3 +367,94 @@ https://www.deutsche-rentenversicherung.de/
 https://www.gematik.de/
 
 **DHL Paketbox:** https://www.dhl.de/
+
+
+# Quellen
+
+\(1\) www.theguardian.com/technology/2010/jan/11/Facebook-privacy
+
+\(2\)
+abcnews.go.com/Business/mark-zuckerberg-buys-homes-surrounding-palo-alto-calif/story?id=20542803
+
+\(3\) psycnet.apa.org/record/1956-07332-001;  
+psycnet.apa.org/record/1963-07030-001;  
+psycnet.apa.org/record/1974-25314-001
+
+\(4\) de.wikipedia.org/wiki/Panopticon;  
+www.ucl.ac.uk/bentham-project/about-jeremy-bentham/panopticon
+
+\(5\) www.microsoft.com/en-us/privacy/data-collection-windows
+
+\(6\) www.apple.com/apple-intelligence/;  
+time.com/6980911/microsoft-copilot-recall-ai-features-privacy-concerns/
+
+\(7\) www.nzp.ch/studie-2020-das-jahr-der-online-kommunikation/
+
+\(8\)
+www.forbes.com/sites/hollieslade/2014/05/19/the-only-email-system-the-nsa-cant-access/
+
+\(9\)
+federal-lawyer.com/blocked-transactions-what-financial-institutions-need-to-know-about-ofac-compliance/;
+ofac.treasury.gov/faqs/topic/1601
+
+\(10\)
+www.faz.net/aktuell/finanzen/banken-begrenzen-ausgabe-von-bargeld-wegen-hoher-nachfrage-16688789.html;  
+https://www.investopedia.com/terms/b/bank-deposits.asp
+
+\(11\) https://www.investopedia.com/terms/m/mt-gox.asp
+
+\(12\) https://www.investopedia.com/what-went-wrong-with-ftx-6828447
+
+\(13\)
+foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/
+
+\(14\)
+https://www.anwalt.de/rechtstipps/toyota-datenleck-was-kunden-jetzt-wissen-muessen-225258.html
+
+# Abbildungsverzeichnis
+
+[Abbildung 1 Panopticon [12](#_Toc196572864)](#_Toc196572864)
+
+[Abbildung 2 Privatsphäre oder Bequemlichkeit
+[16](#_Toc196572865)](#_Toc196572865)
+
+[Abbildung 3 Balena Etcher [29](#_Toc196572866)](#_Toc196572866)
+
+[Abbildung 4 Das Terminal [36](#_Toc196572867)](#_Toc196572867)
+
+[Abbildung 5 Terminal-Downloads [38](#_Toc196572868)](#_Toc196572868)
+
+[Abbildung 6 Terminal-Veracrypt-Installation
+[39](#_Toc196572869)](#_Toc196572869)
+
+[Abbildung 7 Bootemenü GrapheneOS [54](#_Toc196572870)](#_Toc196572870)
+
+[Abbildung 8 Schnelleinstellungen [58](#_Toc196572871)](#_Toc196572871)
+
+[Abbildung 9 GrapheneOS-Nutzer [59](#_Toc196572872)](#_Toc196572872)
+
+[Abbildung 10 Kamera- und Mikrofonblocker
+[72](#_Toc196572873)](#_Toc196572873)
+
+[Abbildung 11VPN [89](#_Toc196572874)](#_Toc196572874)
+
+[Abbildung 12 NextDNS Anfrage [94](#_Toc196572875)](#_Toc196572875)
+
+[Abbildung 13 FreeFileSync-Synchronisation
+[112](#_Toc196572876)](#_Toc196572876)
+
+[Abbildung 14 Kleopatra [161](#_Toc196572877)](#_Toc196572877)
+
+[Abbildung 15 Kleopatra Webseite [162](#_Toc196572878)](#_Toc196572878)
+
+[Abbildung 16 Kleopatra Verifikation
+[163](#_Toc196572879)](#_Toc196572879)
+
+[Abbildung 17 Bitcoin-Passphrasen [218](#_Toc196572880)](#_Toc196572880)
+
+[Abbildung 18 Bitcoin Coinjoin [227](#_Toc196572881)](#_Toc196572881)
+
+[Abbildung 19 Metadaten bei Fotos [242](#_Toc196572882)](#_Toc196572882)
+
+[Abbildung 20 Werbung unter dem Kennzeichen
+[255](#_Toc196572883)](#_Toc196572883)
