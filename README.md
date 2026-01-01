@@ -31,7 +31,7 @@ Die Online-Version dieses Buches ist kostenlos hier auf GitHub einsehbar und als
 Derzeit ist das Buch nur auf **Deutsch** verfügbar. Es gibt noch keine offiziellen Übersetzungen in andere Sprachen.
 Falls du Interesse hast, das "Privacy Handbuch" in eine andere Sprache zu übersetzen (z. B. Englisch, Spanisch, Französisch etc.), melde dich gerne [bei mir](https://privatopia.de/kontakt/). Hier bin ich auch offen für eine Partnerschaft und dem Teilen eventueller Einnahmen.
 
-## Lizens
+## Lizenz
 Copyright by Timo Volkov
 
 Dieses Werk ist lizenziert unter der Attribution-NonCommercial-ShareAlike 4.0 International License. Eine Kopie dieser Lizens ist unter der folgenden Seite zu finden: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode/
