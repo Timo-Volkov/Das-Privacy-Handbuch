@@ -25,7 +25,7 @@ Bei Fehlern, falschen Links oder anderen Problem, kann man mich gerne [direkt ko
 Die erste Ausgabe des Buches, die am 29. Mai 2025 veröffentlicht wurde ist auf [Amazon](https://www.amazon.de/Das-Privacy-Handbuch-Sicherheit-Privatsph%C3%A4re/dp/B0F9VRBKX1), [Copiaro](https://copiaro.com/privacy-handbuch), [Dezentralshop](https://dezentralshop.ch/produkt/das-privacy-handbuch/) und [Blocktrainershop](https://shop.blocktrainer.de/products/das-privacy-handbuch-ratgeber-fuer-digitale-privatsphaere-und-sicherheit) erhältlich.
 
 ## Online-Version
-Die Online-Version dieses Buches ist kostenlos hier auf GitHub einsehbar und als PDF als kostenfreier Download auf auf [privatopia.de](https://privatopia.de/ebook-kostenlos-herunteladen/) verfügbar.
+Die Online-Version dieses Buches ist kostenlos hier auf GitHub einsehbar und als PDF als kostenfreier Download auf [privatopia.de](https://privatopia.de/ebook-kostenlos-herunteladen/) verfügbar.
 
 ## Übersetzungen
 Derzeit ist das Buch nur auf **Deutsch** verfügbar. Es gibt noch keine offiziellen Übersetzungen in andere Sprachen.
